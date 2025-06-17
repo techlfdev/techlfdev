@@ -39,31 +39,6 @@ Desenvolvedor apaixonado por criar soluções inovadoras e eficientes, com exper
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techlfdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techlfdev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techlfdev&theme=dark" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techlfdev&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Atividade de Contribuição
-
-<img src="https://activity-graph.herokuapp.com/graph?username=techlfdev&theme=github-dark&hide_border=true" width="100%"/>
-
----
-
 ## 🤝 Vamos Conectar!
 
 <div align="center">
