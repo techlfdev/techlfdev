@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/techlfdev/techlfdev/blob/main/design.png"></p>
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, me chamo Luis Felipe </h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, me chamo Luis Felipe!</h1>
 
-<p align="center" width="150px"> Sou Engenheiro de Software e Desenvolvedor Full-Stack com 4 anos de experiência projetando, desenvolvendo e implementando soluções full-stack.</p>
+<p align="center" width="150px"> Engenheiro de Software e Desenvolvedor Full-Stack com 4 anos de experiência projetando,<br>desenvolvendo e implementando soluções full-stack.</p>
 
 
 <h3 align="center">🛠 &nbsp;Stack Tecnológico</h3>
@@ -41,7 +41,6 @@
 <h3 align="center">:link: &nbsp;Conecte-se comigo</h3>
 
 <p align="center">
-<a href="https://monfily.com"><img src="https://img.shields.io/badge/-Portfólio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lluisdev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lipevaz.lfv@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
