@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, me chamo Luis Felipe!</h1>
 
-<p align="center" width="150px"> Engenheiro de Software e Desenvolvedor Full-Stack com 4 anos de experiência projetando,<br>desenvolvendo e implementando soluções full-stack.</p>
+<p align="center" width="150px"> Sou um Engenheiro de Software com foco em Backend e Plataformas em Nuvem, apaixonado por <br>construir e escalar sistemas distribuídos.</p>
 
 
 <h3 align="center">🛠 &nbsp;Stack Tecnológico</h3>
